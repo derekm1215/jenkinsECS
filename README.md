@@ -7,7 +7,7 @@ Sample docker image to test docker deployments removed changes!
 
 ## Running locally
 
-Build and run using Docker Compose...here.are.some.changes.and.periods.:
+Build and run using Docker Compose???:
 
 	$ git clone https://github.com/docker/dockercloud-hello-world
 	$ cd dockercloud-hello-world
