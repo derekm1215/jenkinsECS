@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Hello world! This is an updated image!</title>
+	<title>Hello world!</title>
 	<link href='//fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
 	<style>
 	body {
