@@ -3,7 +3,7 @@ hello-world!!!!!! This is a change to the readme!
 
 [![Deploy to Docker Cloud](https://files.cloud.docker.com/images/deploy-to-dockercloud.svg)](https://cloud.docker.com/stack/deploy/)
 
-Sample docker image to test docker deployments MOAR CHANGES RAAAAWR!
+Sample docker image to test docker deployments removed changes!
 
 ## Running locally
 
